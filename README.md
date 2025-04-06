@@ -1,5 +1,5 @@
 # Socket Project
-This project for the Computer Networks (Spring 2025) Course is a group-based socket programming assignment to design and implement a Distributed Hash Table (DHT) using a ring topology and hot potato query processing. Here's a high-level summary:
+This project for the Computer Networks (Spring 2025) Course is a group-based socket programming assignment to design and implement a Distributed Hash Table (DHT) using a ring topology and hot potato query processing:
 
 🔧 Main Objective
     Build a distributed application where multiple peer processes communicate using UDP sockets to:
