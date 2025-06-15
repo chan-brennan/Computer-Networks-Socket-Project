@@ -23,7 +23,6 @@ This project for the Computer Networks (Spring 2025) Course is a group-based soc
   Each peer maintains a local hash table to store its share of the data.
 
 
-
 ---
 
 ## 🔄 Execution Model
@@ -92,3 +91,5 @@ Each peer only stores records assigned to their ID.
    c.*Query DHT:*
    ```bash
    register Alice 127.0.0.1 1501 1502```
+   
+   
