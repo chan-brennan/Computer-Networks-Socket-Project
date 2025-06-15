@@ -83,17 +83,17 @@ Each peer only stores records assigned to their ID.
    python3 dht_peer.py <manager_ip> <manager_port>```
 3. **Inside the Peer Console:**
 
-   a.*Register the peer:*
+   a. *Register the peer:*
    ```bash
    register Alice 127.0.0.1 1501 1502
    ```
 
-   b.*Setup DHT:*
+   b. *Setup DHT:*
     ```bash
    register Alice 127.0.0.1 1501 1502
    ```
 
-   c.*Query DHT:*
+   c. *Query DHT:*
    ```bash
    register Alice 127.0.0.1 1501 1502
    ```
