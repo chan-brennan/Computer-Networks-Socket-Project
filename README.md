@@ -77,10 +77,12 @@ Each peer only stores records assigned to their ID.
 
 1. **Start the Manager:**
    ```bash
-   python3 dht_manager.py <manager_port>```
+   python3 dht_manager.py <manager_port>
+   ```
 2. **Start a Peer:**
    ```bash
-   python3 dht_peer.py <manager_ip> <manager_port>```
+   python3 dht_peer.py <manager_ip> <manager_port>
+   ```
 3. **Inside the Peer Console:**
 
    a. *Register the peer:*
